@@ -16,7 +16,7 @@ The banner campaign was divided into three sub classes:
 
 * **300px by 600px**
 
-> To accommodate for both the banner and text ads, a 16 x 1 matrix system was employed. The 16 x 1 matrix system simply means that each sections of the community had 16 possible slots for active advertisement. This implied that each sections could only display a maximum of 16 active ads at its peak time.
+To accommodate for both the banner and text ads, a 16 x 1 matrix system was employed. The 16 x 1 matrix system simply means that each sections of the community had 16 possible slots for active advertisement. This implied that each sections could only display a maximum of 16 active ads at its peak time.
 
 The 16 slots were allocated per section as follows:
 
