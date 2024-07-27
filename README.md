@@ -44,5 +44,3 @@ The system was designed to be very impartial and ensured that ads were filled in
 
 <img src="https://github.com/euroadams/euroadams/blob/master/assets/public/work-samples/text-ad-2.jpg" alt="Text Ad Sample" width="auto" height="auto"/>
 
-## How to Use :
-
