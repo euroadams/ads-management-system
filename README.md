@@ -5,8 +5,8 @@ A web-based advertisers management system that allows registered members to uplo
 
 It consist of 2 ads categories:
 
-=> **Banner ads**
-=> **Text ads**
+* => **Banner ads**
+* => **Text ads**
 
 The banner campaign was divided into three sub classes:
 
