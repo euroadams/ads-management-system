@@ -1,7 +1,7 @@
 # Ads Management System
 A web-based advertisers management system that allows registered members to upload, run and manage targeted ads. 
-
-> NOTE : ALL SAMPLES INCLUDED HERE IN ARE FOR DEMONSTRATION PURPOSES ONLY
+> [!NOTE]
+> ALL SAMPLES INCLUDED HERE IN ARE FOR DEMONSTRATION PURPOSES ONLY
 
 # Overview:
 
